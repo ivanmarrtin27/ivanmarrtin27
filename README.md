@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Iván Martín 👋
+# Iván Martín Molina 
 
 **Estudiante de Desarrollo de Software** · Java primero · con Python, JavaScript y TypeScript
 
