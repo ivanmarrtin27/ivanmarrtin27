@@ -64,6 +64,24 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 
 ---
 
+## Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivanmarrtin27/ivanmarrtin27/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivanmarrtin27/ivanmarrtin27/output/github-contribution-grid-snake.svg" />
+    <img alt="Animación snake del contribution graph de GitHub" src="https://raw.githubusercontent.com/ivanmarrtin27/ivanmarrtin27/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanmarrtin27&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true&custom_title=Actividad%20reciente" alt="Gráfico de actividad reciente" />
+</div>
+
+---
+
 ## Sobre mí
 
 Fuerte en **Java**. También trabajo con **JavaScript/TypeScript**, **Python** (fundamentos), **MySQL**, **React Native** y despliegue en **Cloudflare**. Kotlin, Ionic y Angular: en aprendizaje / con algo de experiencia.
