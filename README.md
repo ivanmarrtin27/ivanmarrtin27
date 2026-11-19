@@ -1,29 +1,55 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ivanmarrtin27/Houdini-Analytics-v1.1/analytics-hb139/cloudflare/public/brand/houdini-analytics-icon.png" alt="Houdini" width="88" />
-</p>
+<div align="center">
 
-<h1 align="center">Iván Martín</h1>
+# Hi, I'm Iván Martín 👋
+
+**Software Development student** · Java-first · building with Python, JavaScript & TypeScript
+
+[Portfolio](https://ivanmarrtin27.github.io/Portfolio/) · [GitHub](https://github.com/ivanmarrtin27)
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Backend+%26+fullstack+projects;Seeking+Erasmus%2B+Internship+EU+2027)
+
+</div>
+
+---
+
+### Languages & tools
 
 <p align="center">
-  Software Development Student · Java · JS/TS · React · Python · Node · SQL<br/>
-  Seeking <strong>Erasmus+ Internship</strong> in the EU — 2027
-</p>
-
-<p align="center">
-  <a href="https://ivanmarrtin27.github.io/Portfolio/"><strong>Portfolio →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://houdini-analytics.pages.dev"><strong>Houdini Analytics →</strong></a>
+  <img src="https://img.shields.io/badge/Java-3FB950?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-238636?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-2EA043?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1A7F37?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-3FB950?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-238636?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-2EA043?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Kotlin-1A7F37?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Git-3FB950?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### Featured
+### GitHub stats
 
-**[Houdini Analytics](https://github.com/ivanmarrtin27/Houdini-Analytics-v1.1)** — predicciones de fútbol (Poisson) en Cloudflare Pages + Workers + D1. PWA, tips, auth y Premium.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=2EA043" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Top languages" />
+</div>
 
-Live: [houdini-analytics.pages.dev](https://houdini-analytics.pages.dev)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=react&hide_border=true&background=0D1117&ring=3FB950&fire=2EA043&currStreakLabel=3FB950" alt="GitHub streak" />
+</div>
 
-### Elsewhere
+---
 
-- Portfolio: [ivanmarrtin27.github.io/Portfolio](https://ivanmarrtin27.github.io/Portfolio/)
-- GitHub: [@ivanmarrtin27](https://github.com/ivanmarrtin27)
+### About
+
+I focus on **Java** backends and also ship apps with **Python**, **JavaScript/TypeScript**, React and Node. Side projects include mobile (Kotlin / React Native), PWAs and small fullstack tools.
+
+Looking for an **Erasmus+ internship** in the EU — 2027.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ivanmarrtin27&label=Profile%20views&color=3fb950&style=flat" alt="Profile views" />
+</p>
