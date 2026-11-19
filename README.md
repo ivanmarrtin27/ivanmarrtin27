@@ -1,20 +1,20 @@
 <div align="center">
 
-# Hi, I'm Iván Martín 👋
+# Hola, soy Iván Martín 👋
 
-**Software Development student** · Java-first · building with Python, JavaScript & TypeScript
+**Estudiante de Desarrollo de Software** · Java primero · con Python, JavaScript y TypeScript
 
 [Portfolio](https://ivanmarrtin27.github.io/Portfolio/) · [GitHub](https://github.com/ivanmarrtin27)
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Backend+%26+fullstack+projects;Seeking+Erasmus%2B+Internship+EU+2027)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=Java+%7C+Python+%7C+JavaScript+%7C+TypeScript;Proyectos+backend+y+fullstack;Busco+pr%C3%A1cticas+Erasmus%2B+UE+2027)
 
 </div>
 
 ---
 
-### Languages & tools
+### Lenguajes y herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-3FB950?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -31,25 +31,25 @@
 
 ---
 
-### GitHub stats
+### Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=2EA043" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=2EA043&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&locale=es" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=react&hide_border=true&background=0D1117&ring=3FB950&fire=2EA043&currStreakLabel=3FB950" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=react&hide_border=true&background=0D1117&ring=3FB950&fire=2EA043&currStreakLabel=3FB950&locale=es" alt="Racha de GitHub" />
 </div>
 
 ---
 
-### About
+### Sobre mí
 
-I focus on **Java** backends and also ship apps with **Python**, **JavaScript/TypeScript**, React and Node. Side projects include mobile (Kotlin / React Native), PWAs and small fullstack tools.
+Me centro en backends con **Java** y también creo apps con **Python**, **JavaScript/TypeScript**, React y Node. En proyectos personales: móvil (Kotlin / React Native), PWAs y herramientas fullstack.
 
-Looking for an **Erasmus+ internship** in the EU — 2027.
+Busco unas **prácticas Erasmus+** en la UE — 2027.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanmarrtin27&label=Profile%20views&color=3fb950&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ivanmarrtin27&label=Vistas%20del%20perfil&color=3fb950&style=flat" alt="Vistas del perfil" />
 </p>
