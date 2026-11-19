@@ -12,10 +12,7 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 
 <br/>
 
-<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/Backend-Java_%C2%B7_APIs_y_datos-58A6FF?style=flat-square&labelColor=0D1117" alt="Backend" /></a>
-<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/M%C3%B3vil-React_Native_%C2%B7_Kotlin-58A6FF?style=flat-square&labelColor=0D1117" alt="Móvil" /></a>
-<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/Cloud-Workers_%C2%B7_PWAs-58A6FF?style=flat-square&labelColor=0D1117" alt="Cloud" /></a>
-<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/Erasmus%2B-UE_2027-C9D1D9?style=flat-square&labelColor=0D1117" alt="Erasmus+" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3600&pause=2400&color=3FB950&center=true&vCenter=true&width=640&height=36&letterSpacing=0.5&cursor=true&lines=Backend+con+Java+%C2%B7+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
 
 </div>
 
@@ -24,14 +21,14 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 ## Estadísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=2EA043&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&locale=es" alt="Lenguajes más usados" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=transparent&hide_border=true&background=0D1117&ring=3FB950&fire=2EA043&currStreakLabel=3FB950&locale=es" alt="Racha de GitHub" />
 </div>
 
 <br/>
@@ -70,7 +67,7 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 ## Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanmarrtin27&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribuciones" alt="Gráfico de contribuciones" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanmarrtin27&bg_color=0D1117&color=3FB950&line=2EA043&point=C9D1D9&area=true&area_color=3FB950&hide_border=true&custom_title=Contribuciones" alt="Gráfico de contribuciones" />
 </div>
 
 ---
@@ -82,5 +79,5 @@ Fuerte en **Java**. También trabajo con **JavaScript/TypeScript**, **Python** (
 Busco unas **prácticas Erasmus+** en la UE — 2027.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanmarrtin27&label=Vistas%20del%20perfil&color=58a6ff&style=flat" alt="Vistas del perfil" />
+  <img src="https://komarev.com/ghpvc/?username=ivanmarrtin27&label=Vistas%20del%20perfil&color=3fb950&style=flat" alt="Vistas del perfil" />
 </p>
