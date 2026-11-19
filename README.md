@@ -2,7 +2,7 @@
 
 # Iván Martín Molina 
 
-**Estudiante de Desarrollo de Software** · Java primero · con Python, JavaScript y TypeScript
+**Estudiante de Desarrollo de Software** · Java, Python, JavaScript y TypeScript
 
 [Portfolio](https://ivanmarrtin27.github.io/Portfolio/) · [GitHub](https://github.com/ivanmarrtin27)
 
