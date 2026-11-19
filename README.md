@@ -1,14 +1,10 @@
 <div align="center">
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=3FB950&center=true&vCenter=true&width=560&lines=ESTUDIANTE+DE+DESARROLLO+DE+SOFTWARE+%E2%80%A2+ALMER%C3%8DA%2C+ES" alt="Rol y ubicación" />
-</p>
+# Iván Martín Molina · Almería, ESP 🇪🇸
 
-# Iván Martín Molina ✦
+**Estudiante DAM · Desarrollo de Aplicaciones Multiplataforma**
 
-**Java · JavaScript · Python · MySQL · React Native**
-
-Estudiante DAM · Almería, España 🇪🇸
+Java · JavaScript · Python · MySQL · React Native
 
 Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWAs en producción.
 
@@ -16,7 +12,7 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=560&lines=Backend+con+Java+%7C+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+%26+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+UE+%E2%80%94+2027)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1600&color=8B949E&center=true&vCenter=true&width=620&cursor=false&lines=Backend+con+Java+%C2%B7+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
 
 </div>
 
@@ -50,14 +46,14 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 ## Estadísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=2EA043&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=es" alt="Lenguajes más usados" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=react&hide_border=true&background=0D1117&ring=3FB950&fire=2EA043&currStreakLabel=3FB950&locale=es" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es" alt="Racha de GitHub" />
 </div>
 
 <br/>
@@ -75,5 +71,5 @@ Fuerte en **Java**. También trabajo con **JavaScript/TypeScript**, **Python** (
 Busco unas **prácticas Erasmus+** en la UE — 2027.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanmarrtin27&label=Vistas%20del%20perfil&color=3fb950&style=flat" alt="Vistas del perfil" />
+  <img src="https://komarev.com/ghpvc/?username=ivanmarrtin27&label=Vistas%20del%20perfil&color=58a6ff&style=flat" alt="Vistas del perfil" />
 </p>
