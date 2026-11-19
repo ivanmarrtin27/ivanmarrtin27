@@ -12,7 +12,7 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3600&pause=2400&color=3FB950&center=true&vCenter=true&width=640&height=36&letterSpacing=0.5&cursor=true&lines=Backend+con+Java+%C2%B7+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=3800&pause=2600&color=3FB950&center=true&vCenter=true&width=680&height=40&letterSpacing=0.6&cursor=true&lines=Backend+con+Java+%C2%B7+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
 
 </div>
 
@@ -28,13 +28,7 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=transparent&hide_border=true&background=0D1117&ring=3FB950&fire=2EA043&currStreakLabel=3FB950&locale=es" alt="Racha de GitHub" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanmarrtin27&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" alt="Trofeos de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=transparent&hide_border=true&background=0D1117&ring=3FB950&fire=2EA043&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E&locale=es" alt="Racha de GitHub" />
 </div>
 
 ---
@@ -61,6 +55,10 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 | **[Quedada](https://github.com/ivanmarrtin27/Quedada)** | App móvil para quedar y jugar con amigos | TypeScript · Expo · React Native |
 | **[Melodix](https://github.com/ivanmarrtin27/Melodix-v1)** | Reproductor / PWA musical con API y empaquetado Android | JS · FastAPI · Capacitor |
 | **[Portfolio](https://github.com/ivanmarrtin27/Portfolio)** | Portfolio personal DAM con panel admin | JS · Cloudflare Pages |
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=4200&pause=3000&color=2EA043&center=true&vCenter=true&width=520&height=28&cursor=false&lines=C%C3%B3digo+limpio+%C2%B7+Producto+real+%C2%B7+Aprendizaje+constante" alt="Enfoque de proyectos" />
+</p>
 
 ---
 
