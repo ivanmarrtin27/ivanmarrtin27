@@ -12,7 +12,7 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1600&color=8B949E&center=true&vCenter=true&width=620&cursor=false&lines=Backend+con+Java+%C2%B7+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=20&duration=3600&pause=2400&color=C9D1D9&center=true&vCenter=true&width=640&height=36&letterSpacing=0.6&cursor=true&lines=Backend+con+Java+%C2%B7+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
 
 </div>
 
