@@ -12,8 +12,32 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=20&duration=3600&pause=2400&color=C9D1D9&center=true&vCenter=true&width=640&height=36&letterSpacing=0.6&cursor=true&lines=Backend+con+Java+%C2%B7+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
+<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/Backend-Java_%C2%B7_APIs_y_datos-58A6FF?style=flat-square&labelColor=0D1117" alt="Backend" /></a>
+<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/M%C3%B3vil-React_Native_%C2%B7_Kotlin-58A6FF?style=flat-square&labelColor=0D1117" alt="Móvil" /></a>
+<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/Cloud-Workers_%C2%B7_PWAs-58A6FF?style=flat-square&labelColor=0D1117" alt="Cloud" /></a>
+<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/Erasmus%2B-UE_2027-C9D1D9?style=flat-square&labelColor=0D1117" alt="Erasmus+" /></a>
 
+</div>
+
+---
+
+## Estadísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&locale=es" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=es" alt="Lenguajes más usados" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es" alt="Racha de GitHub" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanmarrtin27&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" alt="Trofeos de GitHub" />
 </div>
 
 ---
@@ -40,27 +64,6 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 | **[Quedada](https://github.com/ivanmarrtin27/Quedada)** | App móvil para quedar y jugar con amigos | TypeScript · Expo · React Native |
 | **[Melodix](https://github.com/ivanmarrtin27/Melodix-v1)** | Reproductor / PWA musical con API y empaquetado Android | JS · FastAPI · Capacitor |
 | **[Portfolio](https://github.com/ivanmarrtin27/Portfolio)** | Portfolio personal DAM con panel admin | JS · Cloudflare Pages |
-
----
-
-## Estadísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=es" alt="Lenguajes más usados" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&locale=es" alt="Racha de GitHub" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanmarrtin27&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" alt="Trofeos de GitHub" />
-</div>
 
 ---
 
