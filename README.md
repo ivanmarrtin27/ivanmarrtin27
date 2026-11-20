@@ -22,7 +22,7 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=2EA043&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&locale=es" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&locale=es&cache_seconds=1800&_=20261120" alt="Lenguajes más usados" />
 </div>
 
 <br/>
