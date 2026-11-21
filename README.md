@@ -1,6 +1,8 @@
 <div align="center">
 
-# Iván Martín Molina · Almería, ESP 🇪🇸
+# Hey 👋 What's Up?
+
+### Iván Martín Molina · Almería, ESP 🇪🇸
 
 **Estudiante DAM · Desarrollo de Aplicaciones Multiplataforma**
 
@@ -8,42 +10,42 @@ Java · JavaScript · Python · MySQL · React Native
 
 Construyo backends, apps móviles y productos fullstack. Formación en desarrollo con agentes de IA y orquestación de flujos agentic orientados a producción.
 
-[Portfolio](https://ivanmarrtin27.github.io/Portfolio/) · [GitHub](https://github.com/ivanmarrtin27) · [Email](mailto:ivanmarrtin2703@gmail.com)
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=3800&pause=2600&color=3FB950&center=true&vCenter=true&width=680&height=40&letterSpacing=0.6&cursor=true&lines=Backend+con+Java+%C2%B7+Python+y+APIs;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Orquestaci%C3%B3n+de+agentes+para+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,mysql,nodejs,html,css,git,kotlin,cloudflare" alt="Stack principal" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/iv%C3%A1n-mart%C3%ADn-molina"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/ivanmarrtin27"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;
+<a href="mailto:ivanmarrtin2703@gmail.com"><img src="https://img.shields.io/badge/Email-3FB950?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;
+<a href="https://www.instagram.com/ivanmarrtin_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+&nbsp;
+<a href="https://ivanmarrtin27.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=3FB950" alt="Portfolio" /></a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ivanmarrtin27&theme=dark&hide_border=false&border=2EA043&background=0D1117&ring=3FB950&fire=2EA043&currStreakNum=3FB950&sideNums=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E&locale=es" alt="Racha de contribuciones" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ivanmarrtin27&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=12&margin-h=12" alt="Trofeos de GitHub" />
+
+<br/><br/>
+
+<!-- Pac-Man contribution graph (generado por GitHub Action → rama output) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivanmarrtin27/ivanmarrtin27/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivanmarrtin27/ivanmarrtin27/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ivanmarrtin27/ivanmarrtin27/output/pacman-contribution-graph-dark.svg" width="100%" />
+</picture>
 
 </div>
-
----
-
-## Estadísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarrtin27&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&ring_color=2EA043&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarrtin27&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9&locale=es&cache_seconds=1800&_=20261120" alt="Lenguajes más usados" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ivanmarrtin27&theme=transparent&hide_border=true&background=0D1117&ring=3FB950&fire=2EA043&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E&locale=es" alt="Racha de GitHub" />
-</div>
-
----
-
-## Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,mysql,react,nodejs,html,css,git,kotlin,cloudflare" alt="Stack principal" />
-  </a>
-</p>
-
-<p align="center">
-  <em>También:</em> React Native · Expo · Ionic · Angular · Capacitor · FastAPI · Vite · Supabase · D1 · Workers · Agentes de IA
-</p>
 
 ---
 
@@ -59,13 +61,13 @@ Construyo backends, apps móviles y productos fullstack. Formación en desarroll
 | **[Melodix](https://github.com/ivanmarrtin27/Melodix-v1)** | Reproductor / PWA musical con API y empaquetado Android | JS · FastAPI · Capacitor |
 | **[Portfolio](https://github.com/ivanmarrtin27/Portfolio)** | Portfolio personal DAM con panel admin | JS · Cloudflare Pages |
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=4200&pause=3000&color=2EA043&center=true&vCenter=true&width=560&height=28&cursor=false&lines=C%C3%B3digo+limpio+%C2%B7+Agentes+%C2%B7+Producto+en+producci%C3%B3n" alt="Enfoque de proyectos" />
-</p>
-
 ---
 
-## Sobre mí
+## Stack & enfoque
+
+<p align="center">
+  <em>También:</em> React Native · Expo · Ionic · Angular · Capacitor · FastAPI · Vite · Supabase · D1 · Workers · Agentes de IA
+</p>
 
 Fuerte en **Java**. También trabajo con **JavaScript/TypeScript**, **Python**, **MySQL**, **React Native** y despliegue en **Cloudflare**. Kotlin, Ionic y Angular: en aprendizaje / con algo de experiencia.
 
