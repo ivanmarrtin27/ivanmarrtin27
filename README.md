@@ -6,13 +6,13 @@
 
 Java · JavaScript · Python · MySQL · React Native
 
-Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWAs en producción.
+Construyo backends, apps móviles y productos fullstack. Formación en desarrollo con agentes de IA y orquestación de flujos agentic orientados a producción.
 
 [Portfolio](https://ivanmarrtin27.github.io/Portfolio/) · [GitHub](https://github.com/ivanmarrtin27) · [Email](mailto:ivanmarrtin2703@gmail.com)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=3800&pause=2600&color=3FB950&center=true&vCenter=true&width=680&height=40&letterSpacing=0.6&cursor=true&lines=Backend+con+Java+%C2%B7+APIs+y+datos;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Cloudflare+Workers+%C2%B7+PWAs+en+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=3800&pause=2600&color=3FB950&center=true&vCenter=true&width=680&height=40&letterSpacing=0.6&cursor=true&lines=Backend+con+Java+%C2%B7+Python+y+APIs;Apps+m%C3%B3viles+con+React+Native+y+Kotlin;Orquestaci%C3%B3n+de+agentes+para+producci%C3%B3n;Busco+pr%C3%A1cticas+Erasmus%2B+en+la+UE+%E2%80%94+2027" alt="Enfoque profesional" />
 
 </div>
 
@@ -42,7 +42,7 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 </p>
 
 <p align="center">
-  <em>También:</em> React Native · Expo · Ionic · Angular · Capacitor · FastAPI · Vite · Supabase · D1 · Workers
+  <em>También:</em> React Native · Expo · Ionic · Angular · Capacitor · FastAPI · Vite · Supabase · D1 · Workers · Agentes de IA
 </p>
 
 ---
@@ -58,22 +58,16 @@ Construyo backends, apps móviles y productos fullstack — desde APIs hasta PWA
 | **[Portfolio](https://github.com/ivanmarrtin27/Portfolio)** | Portfolio personal DAM con panel admin | JS · Cloudflare Pages |
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=4200&pause=3000&color=2EA043&center=true&vCenter=true&width=520&height=28&cursor=false&lines=C%C3%B3digo+limpio+%C2%B7+Producto+real+%C2%B7+Aprendizaje+constante" alt="Enfoque de proyectos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=4200&pause=3000&color=2EA043&center=true&vCenter=true&width=560&height=28&cursor=false&lines=C%C3%B3digo+limpio+%C2%B7+Agentes+%C2%B7+Producto+en+producci%C3%B3n" alt="Enfoque de proyectos" />
 </p>
-
----
-
-## Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanmarrtin27&bg_color=0D1117&color=3FB950&line=2EA043&point=C9D1D9&area=true&area_color=3FB950&hide_border=true&custom_title=Contribuciones" alt="Gráfico de contribuciones" />
-</div>
 
 ---
 
 ## Sobre mí
 
-Fuerte en **Java**. También trabajo con **JavaScript/TypeScript**, **Python** (fundamentos), **MySQL**, **React Native** y despliegue en **Cloudflare**. Kotlin, Ionic y Angular: en aprendizaje / con algo de experiencia.
+Fuerte en **Java**. También trabajo con **JavaScript/TypeScript**, **Python**, **MySQL**, **React Native** y despliegue en **Cloudflare**. Kotlin, Ionic y Angular: en aprendizaje / con algo de experiencia.
+
+Cursos de programación con agentes de IA y fuerte interés en sistemas multi-agente y flujos agentic. Me desenvuelvo bien orquestando agentes (especificaciones, herramientas y validación) para entregar software en producción de forma fiable.
 
 Busco unas **prácticas Erasmus+** en la UE — 2027.
 
