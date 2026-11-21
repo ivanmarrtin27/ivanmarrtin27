@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hey 👋 What's Up?
-
 ### Iván Martín Molina · Almería, ESP 🇪🇸
 
 **Estudiante DAM · Desarrollo de Aplicaciones Multiplataforma**
