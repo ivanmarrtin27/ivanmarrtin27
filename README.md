@@ -51,13 +51,13 @@ Construyo backends, apps móviles y productos fullstack. Formación en desarroll
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| **[Houdini Analytics](https://github.com/ivanmarrtin27/Houdini-Analytics-v1.1)** | App de predicciones de fútbol (Poisson): partidos, tips, auth y Premium en producción | JS · Cloudflare Pages/Workers · D1 · PWA |
+| **[Houdini Analytics](https://github.com/ivanmarrtin27/Houdini-Analytics-v1.1)** | App de predicciones de fútbol (Poisson): partidos, tips, auth y Premium en producción · [Demo](https://houdini-analytics.pages.dev) | JS · Cloudflare Pages/Workers · D1 · PWA |
 | **[Houdini Analytics CMD](https://github.com/ivanmarrtin27/Houdini-Analytics-CMD)** | Misma API en terminal: menú interactivo, tips y análisis desde CMD/PowerShell | Node.js · CLI · chalk/inquirer |
 | **[ControlaTusFinanzas](https://github.com/ivanmarrtin27/ControlaTusFinanzas)** | App web de finanzas personales: cuentas, movimientos, presupuestos, informes y backup JSON · [Demo](https://controlatusfinanzas.vercel.app) | Vite · React · TypeScript · Supabase · Vercel |
 | **[Gestor Cartas QR](https://github.com/ivanmarrtin27/Gestor-Cartas-QR)** | Cartas digitales multi-tenant por QR: menú público y panel del encargado · [Demo](https://mi-carta.pages.dev/?bar=lo-gueno) | Cloudflare Pages · Functions · D1 · HTML/CSS/JS |
 | **[Quedada](https://github.com/ivanmarrtin27/Quedada)** | App móvil para quedar y jugar con amigos | TypeScript · Expo · React Native |
 | **[Melodix](https://github.com/ivanmarrtin27/Melodix-v1)** | Reproductor / PWA musical con API y empaquetado Android | JS · FastAPI · Capacitor |
-| **[Portfolio](https://github.com/ivanmarrtin27/Portfolio)** | Portfolio personal DAM con panel admin | JS · Cloudflare Pages |
+| **[Portfolio](https://github.com/ivanmarrtin27/Portfolio)** | Portfolio personal DAM con panel admin · [Demo](https://ivanmarrtin27.github.io/Portfolio/) | JS · Cloudflare Pages |
 
 ---
 
