@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=Iv%C3%A1n+Mart%C3%ADn+%C2%B7+Almer%C3%ADa%2C+ESP+%F0%9F%87%AA%F0%9F%87%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=Iv%C3%A1n+Mart%C3%ADn+%C2%B7+Almer%C3%ADa+%F0%9F%87%AA%F0%9F%87%B8)](https://git.io/typing-svg)
 
 **Estudiante DAM · Desarrollo de Aplicaciones Multiplataforma**
 
