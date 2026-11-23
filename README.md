@@ -4,7 +4,7 @@
 
 **Estudiante DAM · Desarrollo de Aplicaciones Multiplataforma**
 
-Java · JavaScript · Python · MySQL · React Native
+Java · Python · JavaScript · MySQL · React Native
 
 Construyo backends, apps móviles y productos fullstack. Formación en desarrollo con agentes de IA y orquestación de flujos agentic orientados a producción.
 
