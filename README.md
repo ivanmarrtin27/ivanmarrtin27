@@ -49,7 +49,7 @@ Construyo backends, apps móviles y productos fullstack. Formación en desarroll
 
 ## Proyectos
 
-| Proyecto | Qué es | Stack |
+| Proyecto | Descripción | Stack |
 | --- | --- | --- |
 | **[Houdini Analytics](https://github.com/ivanmarrtin27/Houdini-Analytics-v1.1)** | App de predicciones de fútbol (Poisson): partidos, tips, auth y Premium en producción · [Demo](https://houdini-analytics.pages.dev) | JS · Cloudflare Pages/Workers · D1 · PWA |
 | **[Houdini Analytics CMD](https://github.com/ivanmarrtin27/Houdini-Analytics-CMD)** | Misma API en terminal: menú interactivo, tips y análisis desde CMD/PowerShell | Node.js · CLI · chalk/inquirer |
