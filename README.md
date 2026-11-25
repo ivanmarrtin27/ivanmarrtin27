@@ -64,7 +64,7 @@ Construyo backends, apps móviles y productos fullstack. Formación en desarroll
 ## Stack & enfoque
 
 <p align="center">
-  <em>También:</em> React Native · Expo · Ionic · Angular · Capacitor · FastAPI · Vite · Supabase · D1 · Workers · Agentes de IA
+  <em>También:</em> React Native · Agentes de IA · Ionic · Angular · Expo · Capacitor · FastAPI · Supabase · D1 · Workers 
 </p>
 
 Fuerte en **Java**. También trabajo con **JavaScript/TypeScript**, **Python**, **MySQL**, **React Native** y despliegue en **Cloudflare**. Kotlin, Ionic y Angular: en aprendizaje / con algo de experiencia.
