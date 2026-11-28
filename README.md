@@ -32,7 +32,6 @@ Construyo backends, apps móviles y productos fullstack. Formación en desarroll
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ivanmarrtin27&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=12&margin-h=12" alt="Trofeos de GitHub" />
 
 <br/><br/>
 
